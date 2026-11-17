@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#123b2a"/>
+      <stop offset="1" stop-color="#061a12"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+  <g transform="translate(40 36)" stroke="#0b1f16" stroke-width="4">
+    <g fill="none">
+      <rect x="0" y="96" width="40" height="40" fill="#40c4ff"/>
+      <rect x="40" y="96" width="40" height="40" fill="#40c4ff"/>
+      <rect x="80" y="96" width="40" height="40" fill="#40c4ff"/>
+      <rect x="120" y="96" width="40" height="40" fill="#40c4ff"/>
+    </g>
+    <g>
+      <rect x="40" y="56" width="40" height="40" fill="#ab47bc"/>
+      <rect x="80" y="56" width="40" height="40" fill="#ab47bc"/>
+      <rect x="120" y="56" width="40" height="40" fill="#ab47bc"/>
+    </g>
+    <g>
+      <rect x="80" y="16" width="40" height="40" fill="#ffd54f"/>
+      <rect x="120" y="16" width="40" height="40" fill="#ffd54f"/>
+    </g>
+    <g>
+      <rect x="0" y="136" width="40" height="40" fill="#66bb6a"/>
+      <rect x="40" y="136" width="40" height="40" fill="#66bb6a"/>
+      <rect x="40" y="96" width="40" height="40" fill="#66bb6a" opacity="0"/>
+    </g>
+  </g>
+  <path d="M128 22c-9 13-16 20-16 31a16 16 0 0 0 32 0c0-11-7-18-16-31Z" fill="#ffd54f" opacity="0.95"/>
+</svg>

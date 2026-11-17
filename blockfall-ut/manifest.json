@@ -1,0 +1,16 @@
+{
+    "name": "blockfall",
+    "description": "A calm, offline falling-block puzzle for Ubuntu Touch.",
+    "architecture": "all",
+    "title": "Blockfall",
+    "icon": "assets/logo.svg",
+    "hooks": {
+        "blockfall": {
+            "apparmor": "blockfall.apparmor",
+            "desktop": "blockfall.desktop"
+        }
+    },
+    "version": "0.1.0",
+    "maintainer": "Johan Finn <johanfinn@hotmail.com>",
+    "framework": "ubuntu-touch-24.04-1.x"
+}

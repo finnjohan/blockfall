@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Blockfall
+Comment=Falling-block puzzle with hints of calm
+Comment[sv]=Fallande block-pussel med lugn känsla
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+X-Lomiri-Supported-Orientations=portrait
